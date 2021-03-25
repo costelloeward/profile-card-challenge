@@ -1,7 +1,17 @@
 
 
 body {
-  background-color: lightblue;
+  background-color: #19A2AE;
+  background-color:hsl(185,75%,39%);;
   text-align: center;
 
 }
+.card{
+  background-color: white;
+  border-radius: 10%;
+  height: 30rem;
+  width: 20rem;
+}
+ img {
+   border-radius: 100%;
+ }
