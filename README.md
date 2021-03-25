@@ -63,7 +63,7 @@ To be added when complete.
 
 ## Author
 
-- LinkedIn - [Louise Costelloe-Ward](https://www.linkedin.com.in.louisecostelloeward)
+- LinkedIn - [Louise Costelloe-Ward](https://www.linkedin.com/in/louisecostelloeward)
 - Frontend Mentor - [@costelloeward](https://www.frontendmentor.io/profile/costelloeward)
 
 
