@@ -39,6 +39,11 @@ To be added when complete.
 - Open Atom editor and save files.
 - Initalise git repository.
 - Draft README with information so far.
+- Experiment with CSS grid
+- Add in images
+- Change all sizes to rem dimensions
+- Adjust background circles using background image properties
+- Amend border styles
 
 ### Built with
 
@@ -48,7 +53,8 @@ To be added when complete.
 
 ### What I learned
 
-To be added when complete.
+- Using negative margins in CSS
+- Altering the attributes of background images in CSS
 
 
 ### Continued development
