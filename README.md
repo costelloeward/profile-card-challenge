@@ -26,12 +26,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Screenshot](.design/solution-screenshot.png)
+![Screenshot](design/solution-screenshot.png)
 
 ### Links
 
 - Solution URL: [on GitHub](https://github.com/costelloeward/profile-card-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [on GitHub Pages](https://costelloeward.github.io/profile-card-challenge/)
 
 
 ## My process
