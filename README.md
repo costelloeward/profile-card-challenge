@@ -26,44 +26,57 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot.jpg)
-To be added when complete.
+![Screenshot](.design/solution-screenshot.png)
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [on GitHub](https://github.com/costelloeward/profile-card-challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-To be added when complete.
+
 
 ## My process
-- Download all files and stare at designs for 25 minutes
-- Open Atom editor and save files.
-- Initalise git repository.
-- Draft README with information so far.
+- Download all files and get familiar with the designs
+- Open Atom editor and save files
+- Initalise git repository
+- Draft README with information so far
 - Experiment with CSS grid
 - Add in images
+- Look through design files for relative sizing
 - Change all sizes to rem dimensions
-- Adjust background circles using background image properties
+- Research and read about arranging background images
+- Adjust background circles using background image properties and referring to designs
 - Amend border styles
+- Check against designs again
+- Adjust text classes and styling of fonts
+- Make notes for feedback questions
+
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS
+- Atom editor
+- An eight year old laptop with an AMD processor!
 
 
 ### What I learned
 
 - Using negative margins in CSS
 - Altering the attributes of background images in CSS
+- Effect of using rem dimensions with fonts
 
 
 ### Continued development
 
-To be added when complete.
+- Image borders: there is an inner blue border and I don't know why it is there
+- How vertical centering works in CSS grid. I tried out, but still needed to add in a top margin
+- Better ways of positioning background images
 
 ### Useful resources
 
-- [Color converter](https://convertacolor.com/) - This helped me when atom insited on fallback colours for the HSL values.
+- [Colour converter](https://convertacolor.com/) - This helped me when atom insisted on fallback colours for the HSL values
+- [Positioning background images](https://www.w3schools.com/cssref/pr_background-position.asp) - Really useful when I was working out how to position the larger blue circles
+- [Guide to using negative margins](https://www.smashingmagazine.com/2009/07/the-definitive-guide-to-using-negative-margins/) - This blog post made me feel it was OK to use negative margins in CSS
 
 
 
@@ -74,8 +87,3 @@ To be added when complete.
 
 
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
