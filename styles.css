@@ -15,31 +15,32 @@ body {
   text-align: center;
 }
 h1 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
 }
 h2 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 700;
 }
 
-  /* .card-container{
-    display: grid;
-    align-content: center;
-    justify-content: center;
-  } */
+p{
+  color:#969696;
+  color: hsl(0, 0%, 59%);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
 
 
 .card{
   background:url(images/bg-pattern-card.svg) white no-repeat center top;
-  border-radius: 10%;
+  border-radius: 5%;
   width: 20rem;
 
 
 }
 
  .victor {
-  border: 0.3rem solid white; 
+  border: 0.3rem solid white;
    border-radius: 100%;
 
    margin-top: 5rem;
@@ -51,17 +52,20 @@ h2 {
  .grey-font{
    color:#969696;
    color: hsl(0, 0%, 59%);
-   font-weight: 400;
+font-weight: 400;
  }
 
  .name {
-   border-bottom: #969696 solid 1px;
+   border-bottom:#969696 solid 0.1rem;
+   border-bottom:hsl(0, 0%, 59%) solid 0.1rem;
  }
- .attribution{
-   margin-top: 15rem;
-   color: #ffffff;
- }
+
  .statistics{
    display: inline-block;
    margin: 1rem;
  }
+/* Removed footer as it misaligned the solution pane */
+ /* .attribution{
+   margin-top: 15rem;
+   color: #ffffff;
+ } */
